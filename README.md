@@ -1,5 +1,5 @@
 # Jordan Store 👟
-Home page de loja responsiva
+Home page de e-commerce responsiva
 
 As animações deste projeto foram feitas com CSS e as bibliotecas de Javascript ScrollReveal e Typed.js
 
