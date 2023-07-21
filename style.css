@@ -61,8 +61,10 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
     gap: 30px;
+
+    max-width: 1600px;
+    margin: auto;
     padding: 30px;
 }
 
